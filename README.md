@@ -97,11 +97,11 @@ This plugin provides an integrated MOLPay payment module that contains a wrapper
             'mp_editing_enabled' : false, // Option to allow billing information editing.
             
             // Optional for Escrow
-            'mp_is_escrow' : '' // Optional for Escrow, put "1" to enable escrow
+            'mp_is_escrow' : '', // Optional for Escrow, put "1" to enable escrow
     
             // Optional for credit card BIN restrictions
-            'mp_bin_lock' : ['414170', '414171'] // Optional for credit card BIN restrictions
-            'mp_bin_lock_err_msg' : 'Only UOB allowed' // Optional for credit card BIN restrictions
+            'mp_bin_lock' : ['414170', '414171'], // Optional for credit card BIN restrictions
+            'mp_bin_lock_err_msg' : 'Only UOB allowed', // Optional for credit card BIN restrictions
             
             // For transaction request use only, do not use this on payment process
             'mp_transaction_id' : '', // Optional, provide a valid cash channel transaction id here will display a payment instruction screen.
