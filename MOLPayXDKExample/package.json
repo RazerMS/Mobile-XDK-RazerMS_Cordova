@@ -20,6 +20,6 @@
     "cordova-plugin-x-toast": "^2.7.2",
     "cordova-save-image-gallery": "0.0.26",
     "molpay-mobile-cordova-privacyscreen": "^1.0.0",
-    "molpay-mobile-xdk-cordova": "^3.28.0"
+    "molpay-mobile-xdk-cordova": "^3.29.0"
   }
 }

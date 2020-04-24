@@ -18,7 +18,7 @@ var app = {
             'mp_password' : '',
             'mp_merchant_ID' : '',
             'mp_app_name' : '',   
-            'mp_order_ID' : '', 
+            'mp_order_ID' : '1234567890', 
             'mp_currency' : 'MYR',
             'mp_country' : 'MY',  
             'mp_verification_key' : '',  
