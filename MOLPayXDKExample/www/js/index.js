@@ -13,15 +13,15 @@ var app = {
         // MOLPay payment details
         var paymentDetails = {
             // ------- SDK required data ----------
-            'mp_amount' : '',
-            'mp_username' : '',
-            'mp_password' : '',
-            'mp_merchant_ID' : '',
-            'mp_app_name' : '',   
-            'mp_order_ID' : '1234567890', 
+            'mp_amount' : '1.10',
+            'mp_username': '',
+            'mp_password': '',
+            'mp_merchant_ID': '',
+            'mp_app_name': '',   
+            'mp_order_ID' : '1234', 
             'mp_currency' : 'MYR',
             'mp_country' : 'MY',  
-            'mp_verification_key' : '',  
+            'mp_verification_key': '',  
             'mp_channel' : 'multi', 
             'mp_bill_description' : 'description',
             'mp_bill_name' : 'name',
@@ -48,7 +48,7 @@ var app = {
             // 'mp_bill_mobile_edit_disabled': true, // Optional, explicitly force disable billing mobile edit.
             // 'mp_bill_description_edit_disabled': true, // Optional, explicitly force disable billing description edit.
             // 'mp_language': 'EN', // Optional, EN, MS, VI, TH, FIL, MY, KM, ID, ZH.
-            // 'mp_dev_mode': true // Optional, enable for online sandbox testing.
+            //'mp_dev_mode': true // Optional, enable for online sandbox testing.
         };
 
         var molpayCallback = function (transactionResult) {

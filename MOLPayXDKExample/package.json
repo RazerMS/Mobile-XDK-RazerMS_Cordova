@@ -16,10 +16,10 @@
     "cordova-android": "^8.1.0",
     "cordova-ios": "^5.1.1",
     "cordova-plugin-android-permissions": "^0.10.0",
-    "cordova-plugin-inappbrowser": "^3.2.0",
+    "cordova-plugin-inappbrowser": "^4.1.0",
     "cordova-plugin-x-toast": "^2.7.2",
     "cordova-save-image-gallery": "0.0.26",
     "molpay-mobile-cordova-privacyscreen": "^1.0.0",
-    "molpay-mobile-xdk-cordova": "^3.29.0"
+    "molpay-mobile-xdk-cordova": "^3.29.1"
   }
 }
