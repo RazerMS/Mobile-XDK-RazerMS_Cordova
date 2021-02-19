@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="molpay.mobile.xdk.example" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>MOLPayExample</name>
+    <name>RMSXdkExample</name>
     <description>
         A sample Apache Cordova application that implements MOLPay XDK Cordova Plugin.
     </description>
