@@ -1,11 +1,16 @@
 {
   "devDependencies": {
-    "cordova-plugin-whitelist": "^1.3.4"
+    "cordova-plugin-inappbrowser": "^4.1.0",
+    "cordova-plugin-whitelist": "^1.3.4",
+    "cordova-plugin-x-toast": "^2.7.2",
+    "cordova-save-image-gallery": "0.0.26",
+    "molpay-mobile-xdk-cordova": "^3.29.2",
+    "rms-mobile-cordova-privacyscreen": "^1.0.1"
   },
   "cordova": {
     "plugins": {
-      "cordova-plugin-whitelist": {},
-      "molpay-mobile-xdk-cordova": {}
+      "molpay-mobile-xdk-cordova": {},
+      "cordova-plugin-whitelist": {}
     },
     "platforms": [
       "android",
@@ -13,13 +18,8 @@
     ]
   },
   "dependencies": {
-    "cordova-android": "^8.1.0",
+    "cordova-android": "^9.0.0",
     "cordova-ios": "^5.1.1",
-    "cordova-plugin-android-permissions": "^0.10.0",
-    "cordova-plugin-inappbrowser": "^4.1.0",
-    "cordova-plugin-x-toast": "^2.7.2",
-    "cordova-save-image-gallery": "0.0.26",
-    "molpay-mobile-cordova-privacyscreen": "^1.0.0",
-    "molpay-mobile-xdk-cordova": "^3.29.1"
+    "cordova-plugin-android-permissions": "^0.10.0"
   }
 }
