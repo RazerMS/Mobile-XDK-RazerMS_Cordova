@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "cordova-android": "^9.0.0",
-    "cordova-ios": "^5.1.1",
+    "cordova-ios": "^6.2.0",
     "cordova-plugin-android-permissions": "^0.10.0"
   }
 }
