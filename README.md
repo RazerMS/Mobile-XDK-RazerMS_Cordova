@@ -6,6 +6,10 @@
 
 <img src="https://user-images.githubusercontent.com/38641542/74424311-a9d64000-4e8c-11ea-8d80-d811cfe66972.jpg">
 
+UPDATE NOTICE
+-----------------
+Latest Mobile XDK Cordova moved to new URL https://github.com/FiuuPayment/Mobile-XDK-Fiuu_Cordova
+
 # Introduction
 
 This is the complete and functional Razer Merchant Services Cordova payment module that is ready to be implemented into Cordova project through Cordova plugin installation procedures. An example application project (MOLPayXDKExample) is provided for MOLPayXDK Cordova integration reference.
@@ -42,16 +46,16 @@ You can contribute to this plugin by sending the pull request to this repository
 
 ## Issues
 
-Submit issue to this repository or email to our support-sa@fiuu.com
+Submit issue to this repository or email to our support@fiuu.com
 
 ## Contact Support
 
-Submit issue to this repository or email to our support-sa@fiuu.com
+Submit issue to this repository or email to our support@fiuu.com
 
-Merchant Technical Support / Customer Care : support-sa@fiuu.com <br>
-Sales/Reseller Enquiry : sales-sa@fiuu.com <br>
-Marketing Campaign : marketing-sa@fiuu.com <br>
-Channel/Partner Enquiry : channel-sa@fiuu.com <br>
-Media Contact : media-sa@fiuu.com <br>
-R&D and Tech-related Suggestion : technical-sa@fiuu.com <br>
-Abuse Reporting : abuse-sa@fiuu.com
+Merchant Technical Support / Customer Care : support@fiuu.com <br>
+Sales/Reseller Enquiry : sales@fiuu.com <br>
+Marketing Campaign : marketing@fiuu.com <br>
+Channel/Partner Enquiry : channel@fiuu.com <br>
+Media Contact : media@fiuu.com <br>
+R&D and Tech-related Suggestion : technical@fiuu.com <br>
+Abuse Reporting : abuse@fiuu.com
