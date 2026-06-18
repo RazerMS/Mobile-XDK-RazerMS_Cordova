@@ -6,52 +6,14 @@
 
 <img src="https://user-images.githubusercontent.com/38641542/74424311-a9d64000-4e8c-11ea-8d80-d811cfe66972.jpg">
 
-# Introduction
+# 🚚 Repository Moved
 
-This is the complete and functional Razer Merchant Services Cordova payment module that is ready to be implemented into Cordova project through Cordova plugin installation procedures. An example application project (MOLPayXDKExample) is provided for MOLPayXDK Cordova integration reference.
+This repository has been moved to a new location and is no longer actively maintained.
 
-This plugin provides an integrated Razer Merchant Services payment module that contains a wrapper 'molpay.js' and an upgradable core as the 'molpay-mobile-xdk-www' folder, which the latter can be separately downloaded at https://github.com/RazerMS/rms-mobile-xdk-www and update the local version.
+👉 New repository: https://github.com/FiuuPayment/Mobile-XDK-Fiuu_Cordova
 
-## Notes/ Prerequisite
+Please update your bookmarks, clone URLs, and CI/CD configurations accordingly.
 
-    - Cordova SDK Version: 6.5.0 ++
-    
-    - Node.js Version: 5.3.0 ++
-    
-    - Minimum Android target version: Android 4.4
-    
-    - Minimum iOS target version: 8.0
+All future updates, bug fixes, and feature enhancements will be published in the new repository.
 
-## Installation Guidance
-
-[Installation](https://github.com/RazerMS/rms-mobile-xdk-cordova/wiki/Installation-Guidance)
-
-
-## Contribution
-
-You can contribute to this plugin by sending the pull request to this repository.
-
-## Resources
-
-- GitHub:     https://github.com/RazerMS
-- Website:    https://merchant.razer.com/
-- Twitter:    https://twitter.com/Razer_MS
-- YouTube:    https://www.youtube.com/c/RazerMerchantServices
-- Facebook:   https://www.facebook.com/RazerMerchantServices/
-- Instagram:  https://www.instagram.com/RazerMerchantServices/
-
-## Issues
-
-Submit issue to this repository or email to our support-sa@razer.com
-
-## Contact Support
-
-Submit issue to this repository or email to our support-sa@razer.com
-
-Merchant Technical Support / Customer Care : support-sa@razer.com<br>
-Sales/Reseller Enquiry : sales-sa@razer.com<br>
-Marketing Campaign : marketing-sa@razer.com<br>
-Channel/Partner Enquiry : channel-sa@razer.com<br>
-Media Contact : media-sa@razer.com<br>
-R&D and Tech-related Suggestion : technical-sa@razer.com<br>
-Abuse Reporting : abuse-sa@razer.com
+Thank you for your support.
